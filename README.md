@@ -2,7 +2,7 @@
 
 #### :books: Education
 - M.S Candidate in Digital Analytics, Yonsei university (2020.03 ~ )
-- B.S in Health Administration and Health Information, CHA University  (2014.03 ~ 2020.02)
+- B.S in Health Administration and Information, CHA University  (2014.03 ~ 2020.02)
   
 #### :clipboard: Experience
 - Researcher in Digital Healthcare Lab (DHLab)   (2020.03 ~ 2021.01)
