@@ -1,4 +1,4 @@
-## 👋 Sang Ho Hwang
+## 👋 Sangho Hwang
 
 #### :books: Education
 - M.S Candidate in Digital Analytics, Yonsei university (2020.03 ~ )
