@@ -1,4 +1,4 @@
-## 👋 Sangho Hwang
+## 👋
 
 #### :books: Education
 - M.S Candidate in Digital Analytics (2020.03 ~ )
