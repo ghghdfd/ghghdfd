@@ -1,17 +1,14 @@
 ## 👋 Sangho Hwang
 
 #### :books: Education
-- M.S Candidate in Digital Analytics, Yonsei university (2020.03 ~ )
-- B.S in Health Administration and Information, CHA University  (2014.03 ~ 2020.02)
+- M.S Candidate in Digital Analytics (2020.03 ~ )
+- B.S in Health Administration and Information (2014.03 ~ 2020.02)
   
 #### :clipboard: Experience
-- Researcher in Digital Healthcare Lab (DHLab)   (2020.03 ~ 2021.01)
+- Researcher in Digital Healthcare Lab (DHLab)  (2020.03 ~ 2021.01)
 
 #### :heart_eyes: Interests
 - Deep Learning, XAI, Time series data, Image data
-
-#### :phone: Contacts
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangho-hwang-822a501bb/)](https://www.linkedin.com/in/sangho-hwang-822a501bb/)  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/gommg)](https://www.facebook.com/gommg)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghghdfd@gmail.com)](mailto:ghghdfd@gmail.com)
 
 </div>
 
